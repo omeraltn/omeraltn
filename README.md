@@ -12,9 +12,7 @@
 
 - 💬 Ask me about anything
 - 📫 How to reach me https://www.linkedin.com/in/%C3%B6mer-altun-7949812a0/
-
-- <h3 align="center">A passionate frontend developer from India</h3>
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> omer.arc.altun56@gmail.com
 </p>
