@@ -16,7 +16,7 @@
 - <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> omer.arcaltun56@gmail.com
+<p align="left"> omer.arc.altun56@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
